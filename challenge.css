@@ -1,0 +1,62 @@
+h1{ 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    margin: 10px;
+    color: white;
+    background-color: #263232;
+    width: 1842px;
+    border: 50px black;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin: 10px;
+    color: white;
+    font-weight: lighter;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    margin: 10px;
+    color: white; 
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: #1565c0;
+    padding: 20px;
+    margin: -10px;
+    height: 40px;
+}
+
+p2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: #1565c0;
+    padding: 20px;
+    margin: -10px;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+p3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: #1565c0;
+    padding: 20px;
+    margin: 10px;
+    font-size: 11px;
+    height: 50px;
+}
+
+div{
+    background-image: url(color1.png);
+    background-size: cover;
+    margin: -10px;    
+    padding: 30px; 
+}
+
+
