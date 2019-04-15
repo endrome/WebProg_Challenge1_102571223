@@ -4,7 +4,6 @@ h1{
     margin: 10px;
     color: white;
     background-color: #263232;
-    width: 1842px;
     border: 50px black;
 }
 
@@ -27,36 +26,53 @@ h3{
     font-family: Arial, Helvetica, sans-serif;
     color: white;
     background-color: #1565c0;
-    padding: 20px;
+    background-clip: content-box;
     margin: -10px;
     height: 40px;
 }
 
-p2{
+h4{
     font-family: Arial, Helvetica, sans-serif;
     color: white;
     background-color: #1565c0;
-    padding: 20px;
-    margin: -10px;
+    background-clip: content-box;
+    margin: -5px;
     font-weight: bold;
     font-size: 13px;
+    width: fit-content;
 }
 
-p3{
+h5{
     font-family: Arial, Helvetica, sans-serif;
     color: white;
     background-color: #1565c0;
-    padding: 20px;
-    margin: 10px;
-    font-size: 11px;
-    height: 50px;
+    background-size: cover;
+    background-clip: content-box; 
+    font-size: 12px;
+    margin: -10px;
+    padding: 10px;
+    width: fit-content;
+}
+
+p1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: #1565c0;
+    background-size: cover;
+    background-clip: content-box; 
+    font-size: 12px;
+    margin: -10px;
+    padding: 10px;
 }
 
 div{
     background-image: url(color1.png);
     background-size: cover;
-    margin: -10px;    
+    margin: -40px;    
     padding: 30px; 
+    height: 200px;
+    background-clip: content-box;
+    
 }
 
 
